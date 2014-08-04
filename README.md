@@ -11,3 +11,6 @@ Now you can convert any selector to close icon by adding
 
 $(selector).closeit(); inside document ready function in your page. 
 
+==============================
+Plugin created by samworks.in
+==============================
