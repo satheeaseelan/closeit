@@ -1,5 +1,5 @@
-closeit
-=======
+closeit Version 1.0
+============
 A jquery plugin created by samworks.in free to use both personal and commercial
 
 Installation Instructions;
@@ -11,6 +11,16 @@ Now you can convert any selector to close icon by adding
 
 $(selector).closeit(); inside document ready function in your page. 
 
+<<<<<<< HEAD
 ==============================
 Plugin created by samworks.in
 ==============================
+=======
+JS Fiddle url:
+
+http://jsfiddle.net/satheeaseelan/C5R2L/
+
+==============================
+Plugin created by samworks.in
+==============================
+>>>>>>> FETCH_HEAD
